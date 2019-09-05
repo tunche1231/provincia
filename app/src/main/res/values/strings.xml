@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">provincia</string>
+
+    <string-array name="opciones_provincias">
+        <item>Arequipa</item>
+        <item>Camana</item>
+    </string-array>
+
+    <string-array name="Arequipa">
+        <item>ALTO SELVA ALEGRE</item>
+        <item>CAYMA</item>
+        <item>CERRO COLORADO</item>
+    </string-array>
+
+    <string-array name="Camana">
+        <item>JOSE MARIA QUIMPER</item>
+        <item>MARIANO NICOLAS VALCARCEL</item>
+        <item>MARISCAL CACERES</item>
+    </string-array>
+</resources>
